@@ -1,4 +1,4 @@
-﻿# Atividade de react UNIESP
+﻿# Atividade React UNIESP
 
 Exercício #01 - react pai e filho
 
